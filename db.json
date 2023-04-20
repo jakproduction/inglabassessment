@@ -5,6 +5,7 @@
 			"avatar": "https://i.ibb.co/m46n7MT/Default-Male.png",
 			"name": "John",
 			"phone": "0121234513",
+			"email": "emailExample1@gmail.com",
 			"isActive": true,
 			"index": 1
 		},
@@ -12,6 +13,7 @@
 			"avatar": "https://i.ibb.co/KGVKQQp/Default-Female.png",
 			"name": "John 10",
 			"phone": "0121234513",
+			"email": "emailExample10@gmail.com",
 			"isActive": true,
 			"index": 10
 		},
@@ -19,6 +21,7 @@
 			"avatar": "https://i.ibb.co/s9xqGgd/4-Male.png",
 			"name": "John 2",
 			"phone": "0121234513",
+			"email": "emailExample2@gmail.com",
 			"isActive": true,
 			"index": 2
 		},
@@ -33,6 +36,7 @@
 			"avatar": "https://i.ibb.co/QvNtTmL/3-Male.png",
 			"name": "John 4",
 			"phone": "0121234513",
+			"email": "emailExample4@gmail.com",
 			"isActive": true,
 			"index": 4
 		},
@@ -40,6 +44,7 @@
 			"avatar": "https://i.ibb.co/Gd7CjR5/3-Female.png",
 			"name": "John 6",
 			"phone": "0121234513",
+			"email": "emailExample6@gmail.com",
 			"isActive": false,
 			"index": 6
 		},
@@ -47,6 +52,7 @@
 			"avatar": "https://i.ibb.co/2dDhcYg/2-Male.png",
 			"name": "John 5",
 			"phone": "0121234513",
+			"email": "emailExample5@gmail.com",
 			"isActive": true,
 			"index": 5
 		},
@@ -54,6 +60,7 @@
 			"avatar": "https://i.ibb.co/chWMQ89/2-Female.png",
 			"name": "John 8",
 			"phone": "0121234513",
+			"email": "emailExample8@gmail.com",
 			"isActive": true,
 			"index": 8
 		},
@@ -61,6 +68,7 @@
 			"avatar": "https://i.ibb.co/871vsXJ/1-Male.png",
 			"name": "John 7",
 			"phone": "0121234513",
+			"email": "emailExample7@gmail.com",
 			"isActive": false,
 			"index": 7
 		},
@@ -68,6 +76,7 @@
 			"avatar": "https://i.ibb.co/NSgz0Dm/1-Female.png",
 			"name": "John 9",
 			"phone": "0121234513",
+			"email": "emailExample9@gmail.com",
 			"isActive": true,
 			"index": 9
 		}
