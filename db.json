@@ -1,14 +1,84 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+  
+    {
+      "avatar": "https://ibb.co/k1VFLb9",
+      "name": "John",
+      "phone" "0121234513",
+      "isActive": true,
+      "index": 1
+    },
+  {
+      "avatar": "https://ibb.co/k1VFLb9",
+      "name": "John",
+      "phone" "0121234513",
+      "isActive": true,
+      "index": 10
+    },
+  {
+      "avatar": "https://ibb.co/k1VFLb9",
+      "name": "John",
+      "phone" "0121234513",
+      "isActive": true,
+      "index": 2
+    },
+{
+      "avatar": "https://ibb.co/k1VFLb9",
+      "name": "John",
+      "phone" "0121234513",
+      "isActive": true,
+      "index": 3
+    },
+{
+      "avatar": "https://ibb.co/k1VFLb9",
+      "name": "John",
+      "phone" "0121234513",
+      "isActive": true,
+      "index": 4
+    },
+{
+      "avatar": "https://ibb.co/k1VFLb9",
+      "name": "John",
+      "phone" "0121234513",
+      "isActive": true,
+      "index": 6
+    },
+{
+      "avatar": "https://ibb.co/k1VFLb9",
+      "name": "John",
+      "phone" "0121234513",
+      "isActive": true,
+      "index": 5
+    },
+{
+      "avatar": "https://ibb.co/k1VFLb9",
+      "name": "John",
+      "phone" "0121234513",
+      "isActive": true,
+      "index": 8
+    },
+{
+      "avatar": "https://ibb.co/k1VFLb9",
+      "name": "John",
+      "phone" "0121234513",
+      "isActive": true,
+      "index": 5
+    },
+{
+      "avatar": "https://ibb.co/k1VFLb9",
+      "name": "John",
+      "phone" "0121234513",
+      "isActive": true,
+      "index": 7
+    },
+{
+      "avatar": "https://ibb.co/k1VFLb9",
+      "name": "John",
+      "phone" "0121234513",
+      "isActive": true,
+      "index": 9
+    }
+
+]
+  
 }
