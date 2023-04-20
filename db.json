@@ -29,6 +29,7 @@
 			"avatar": "https://i.ibb.co/h7qBzmq/4-Female.png",
 			"name": "John 3",
 			"phone": "0121234513",
+			"email": "emailExample3@gmail.com",
 			"isActive": true,
 			"index": 3
 		},
