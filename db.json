@@ -1,5 +1,5 @@
 {
-  [
+  {
     {
       "avatar": "https://ibb.co/k1VFLb9",
       "name": "John",
@@ -78,5 +78,5 @@
       "index": 9
     }
 
-  ]
+}
 }
